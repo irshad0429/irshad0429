@@ -30,9 +30,6 @@
 ### 📂 My Projects  
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| **Doctor Appointment (Laravel)** | A doctor appointment booking system with admin & user roles. | [🔗 View Project](https://github.com/lukman-47/Doctor-APpoinmet-using-Laravel.git) |
-| **Printing Blog Website (Laravel)** | Blog website with printing services integration. | [🔗 View Project](https://github.com/lukman-47/-printing-bloge-website-using-laravel-project.git) |
-| **Object Detection** | Object detection project using AI & ML models. | [🔗 View Project](https://github.com/lukman-47/Object-detaction.git) |
 | **Travel & Tour Website (Laravel)** | A complete travel and tour booking web app with admin & user dashboards. | [🔗 View Project](https://github.com/irshad0429/https-github.com-kaunghtett-Travel-and-Tour.git) |
 | **Job Portal (MERN Stack)** | Job portal for employers & job seekers built using MERN stack. | [🔗 View Project](https://github.com/irshad0429/job_portal_mern_stack.git) |
 
